@@ -1,11 +1,81 @@
 body {
-  background-color: aqua;
+  background-color: #c4e1f6;
+  grid-auto-rows: auto;
 }
 
-table,th,tr,td {
+table,
+th,
+tr,
+td {
+  border: 1px solid black;
+}
+/* 1: #FF9D3D 2: #FFBD73 3: #FEEE91       bas: #C4E1F6 */
+section {
 
- border: 1px solid black;
+}
 
+#section1 {
+  background-color: #feee91;
+}
+#section2 {
+  background-color: #ffbd73;
+}
+#section3 {
+  background-color: #ff9d3d;
+}
+#section4 {
+  background-color: #feee91;
+}
+#section5 {
+  background-color: #ffbd73;
+}
+#section6 {
+  background-color: #ff9d3d;
+}
+#section7 {
+  background-color: #feee91;
+}
+#section8 {
+  background-color: #ffbd73;
+}
+#section9 {
+  background-color: #ff9d3d;
+}
+#section10 {
+  background-color: #feee91;
+}
+#section11 {
+  background-color: #ffbd73;
+}
+#section12 {
+  background-color: #ff9d3d;
+}
+#section13 {
+  background-color: #feee91;
+}
+#section14 {
+  background-color: #ffbd73;
+}
+#section15 {
+  background-color: #ff9d3d;
+}
+#section16 {
+  background-color: #feee91;
+}
+#section17 {
+  background-color: #ffbd73;
+}
+#section18 {
+  background-color: #ff9d3d;
+}
+#section19 {
+  background-color: #feee91;
+}
+#section20 {
+  background-color: #ffbd73;
+}
+#section21 {
+  background-color: #ff9d3d;
 }
 
 .box {
@@ -20,3 +90,15 @@ table,th,tr,td {
 code {
   color: white;
 }
+/* form{
+    margin-top: 8px;
+    padding: 1rem;
+}
+#form1{
+    background-color: aquamarine;
+}
+
+#login{
+
+    background-color: rgb(144, 127, 255);
+} */
