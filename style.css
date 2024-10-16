@@ -1,15 +1,22 @@
-body{
-    background-color: aqua;
-}
-.box{
-    background-color:black;
-    width: max-content;
-    border: 3px;
-    border-style: solid;
-    border-color: white;
-    padding-inline: 2%;
+body {
+  background-color: aqua;
 }
 
-code{
-    color: white;
+table,th,tr,td {
+
+ border: 1px solid black;
+
+}
+
+.box {
+  background-color: black;
+  width: max-content;
+  border: 3px;
+  border-style: solid;
+  border-color: white;
+  padding-inline: 2%;
+}
+
+code {
+  color: white;
 }
